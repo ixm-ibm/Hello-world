@@ -1,3 +1,3 @@
 # Hello-world
 just another repositary
-My NAME IS iAN AND i'M JUSTR TESTING OUT github versioning
+My name is Ian and I'm just testing out github versioning
